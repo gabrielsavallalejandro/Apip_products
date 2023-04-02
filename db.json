@@ -17,6 +17,7 @@
             "price": 3800,
             "id": 3,
             "img": "./images/mate_madera.jpg"
+        },
         { 
             "name": "Mate de ceramica", 
             "price": 6500, 
