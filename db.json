@@ -1,0 +1,79 @@
+{
+    "shop":[
+        { 
+            "name": "Mate camionero", 
+            "price": 1500, 
+            "id": 1, 
+            "img": "../src/images/mate_camionero.jpg"
+        },
+        { 
+            "name": "Mate de calabaza", 
+            "price": 1200, 
+            "id": 2 
+        },
+        { 
+            "name": "Mate de madera", 
+            "price": 1800,
+            "id": 3 },
+        { 
+            "name": "Mate de ceramica", 
+            "price": 3500, 
+            "id": 4 
+        },
+        { 
+            "name": "Bombilla ace. quirurjico", 
+            "price": 800, 
+            "id": 5 
+        },
+        { 
+            "name": "Bombilla ace. inox.", 
+            "price": 1000, 
+            "id": 6
+        },
+        { 
+            "name": "Bombilla alpaca", 
+            "price": 2000, 
+            "id": 7 
+        },
+        { 
+            "name": "Bombilla de colores", 
+            "price": 300, 
+            "id": 8 
+        },
+        { 
+            "name": "Yerba organica 500gr", 
+            "price": 2500, 
+            "id": 9 
+        },
+        { 
+            "name": "Yerba Mañanita 1kg", 
+            "price": 700, 
+            "id": 10 
+        },
+        { 
+            "name": "Yerba Playadito", 
+            "price": 650, 
+            "id": 11 
+        },
+        { 
+            "name": "Yerba Amanda", 
+            "price": 800, 
+            "id": 12 
+        },
+        { 
+            "name": "Bolso matero", 
+            "price": 3500, 
+            "id": 13 
+        },
+        { 
+            "name": "Termo Lumilagro acero", 
+            "price": 6500, 
+            "id": 14 
+        },
+        { 
+            "name": "Termo Lumilagro vidrio", 
+            "price": 3500, 
+            "id": 15 
+        }
+    ]
+}
