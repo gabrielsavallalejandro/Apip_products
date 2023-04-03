@@ -10,85 +10,85 @@
             "name": "Mate de calabaza", 
             "price": 3200, 
             "id": 2,
-            "img": "./images/mate_calabaza.jpg"
+            "img": "https://http2.mlstatic.com/D_NQ_NP_699217-MLA49737338249_042022-O.webp"
         },
         { 
             "name": "Mate de madera", 
             "price": 3800,
             "id": 3,
-            "img": "./images/mate_madera.jpg"
+            "img": "https://http2.mlstatic.com/D_NQ_NP_904581-MLA51492377249_092022-O.webp"
         },
         { 
-            "name": "Mate de ceramica", 
-            "price": 6500, 
+            "name": "Mate Imperial", 
+            "price": 15000, 
             "id": 4,
-            "img": "./images/mate_ceramica.jpg"
+            "img": "https://d3ugyf2ht6aenh.cloudfront.net/stores/202/654/products/20230118_1114281-452f3bed26f5adf35616740543779217-640-0.webp"
         },
         { 
             "name": "Bombilla ace. quirurjico", 
             "price": 2000, 
             "id": 5,
-            "img": "./images/bombilla_acero_quirurjico.jpg"
+            "img": "https://http2.mlstatic.com/D_NQ_NP_644392-MLA51492344496_092022-O.webp"
         },
         { 
             "name": "Bombilla ace. inox.", 
             "price": 3000, 
             "id": 6,
-            "img": "./images/bombilla_acero_inoxidable.jpg"
+            "img": "https://http2.mlstatic.com/D_NQ_NP_898479-MLA45731292464_042021-O.webp"
         },
         { 
             "name": "Bombilla alpaca", 
             "price": 4000, 
             "id": 7,
-            "img": "./images/bombilla_alpaca.jpg"
+            "img": "https://http2.mlstatic.com/D_NQ_NP_720524-MLA52687463749_122022-O.webp"
         },
         { 
             "name": "Bombilla de colores", 
             "price": 900, 
             "id": 8,
-            "img": "./images/bombilla_colores.jpg"
+            "img": "https://http2.mlstatic.com/D_NQ_NP_639802-MLA48678182065_122021-O.webp"
         },
         { 
             "name": "Yerba organica 500gr", 
             "price": 3500, 
             "id": 9,
-            "img": "./images/yerba_organica"
+            "img": "https://http2.mlstatic.com/D_NQ_NP_972063-MLA47740277600_102021-O.webp"
         },
         { 
             "name": "Yerba Mañanita 1kg", 
             "price": 1000, 
             "id": 10,
-            "img": "./images/yerba_mañanita"
+            "img": "https://http2.mlstatic.com/D_NQ_NP_867274-MLA47903910443_102021-O.webp"
         },
         { 
             "name": "Yerba Playadito", 
             "price": 1050, 
             "id": 11,
-            "img": "./images/yerba_playadito"
+            "img": "https://http2.mlstatic.com/D_NQ_NP_948894-MLA52029924025_102022-O.webp"
         },
         { 
             "name": "Yerba Amanda", 
             "price": 1000, 
             "id": 12,
-            "img": "./images/yerba_amanda"
+            "img": "https://http2.mlstatic.com/D_NQ_NP_709775-MLA48945154799_012022-O.webp"
         },
         { 
             "name": "Bolso matero", 
             "price": 6500, 
             "id": 13,
-            "img": "./images/bolso_matero.jpg"
+            "img": "https://d3ugyf2ht6aenh.cloudfront.net/stores/202/654/products/20220325_1055111-9125f3b5501fa7e5fc16483041119488-640-0.jpg"
         },
         { 
-            "name": "Termo Lumilagro acero", 
+            "name": "Termo Lumilagro acero 1L", 
             "price": 12000, 
             "id": 14,
-            "img": "./images/termo_acero.jpg"
+            "img": "https://d3ugyf2ht6aenh.cloudfront.net/stores/202/654/products/20210209_13000511-45655b447fc0f392e316128943999299-640-0.jpg"
         },
         { 
-            "name": "Termo Lumilagro vidrio", 
+            "name": "Termo Lumilagro vidrio 500 cm3", 
             "price": 10000, 
             "id": 15,
-            "img":  "./images/termo_vidrio.jpg"
+            "img":  "https://d3ugyf2ht6aenh.cloudfront.net/stores/202/654/products/20200821_1343181-75d99ced3119a7fde015980439935478-640-0.jpg"
         }
     ]
 }
