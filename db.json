@@ -4,7 +4,7 @@
             "name": "Mate camionero", 
             "price": 3500, 
             "id": 1, 
-            "img": "./images/mate_camionero.jpg"
+            "img": "images/mate_camionero.jpg"
         },
         { 
             "name": "Mate de calabaza", 
