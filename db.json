@@ -4,7 +4,7 @@
             "name": "Mate camionero", 
             "price": 3500, 
             "id": 1, 
-            "img": "https://d3ugyf2ht6aenh.cloudfront.net/stores/202/654/products/20230118_1115191-e1dfbcedb461c1a0d516740533677323-640-0.webp",
+            "img": "https://d3ugyf2ht6aenh.cloudfront.net/stores/202/654/products/20230118_1115191-e1dfbcedb461c1a0d516740533677323-640-0.webp"
         },
         { 
             "name": "Mate de calabaza", 
@@ -89,6 +89,6 @@
             "price": 10000, 
             "id": 15,
             "img":  "https://d3ugyf2ht6aenh.cloudfront.net/stores/202/654/products/20200821_1343181-75d99ced3119a7fde015980439935478-640-0.jpg"
-        },
+        }
     ]
 }
