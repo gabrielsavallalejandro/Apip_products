@@ -5,17 +5,7 @@
             "price": 3500, 
             "id": 1, 
             "img": "https://d3ugyf2ht6aenh.cloudfront.net/stores/202/654/products/20230118_1115191-e1dfbcedb461c1a0d516740533677323-640-0.webp",
-            "description": `CARACTERISTICAS DEL MATE:
-
-
-            - Mate camionero de algarrobo forrado en cuero vacuno.
-
-            - Base de 4 patas con refuerzo.
-
-            - Virola de aluminio
-
-            - Medidas aproximadas, altura entre 10 cm, diámetro de boca tomando los
-            exteriores de la virola entre 9 cm.`          
+            "description": "Caracteristicas:"
         },
         { 
             "name": "Mate de calabaza", 
